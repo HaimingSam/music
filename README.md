@@ -1,5 +1,12 @@
 # music
+## 数据下载
+- huggingface
 
+  """"
+export HF_ENDPOINT=https://hf-mirror.com
+python load_data.py
+  """"
+  
 ## 数据处理
 - 移调增强
   
